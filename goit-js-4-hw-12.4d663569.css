@@ -1,0 +1,26 @@
+.value {
+  color: #fff;
+  background-color: #000;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 130px;
+  font-size: 50px;
+  display: flex;
+}
+
+.timer {
+  justify-content: center;
+  gap: 30px;
+  margin-top: 150px;
+  display: flex;
+}
+
+.label {
+  color: #a9a9a9;
+  justify-content: center;
+  margin-top: 10px;
+  display: flex;
+}
+/*# sourceMappingURL=goit-js-4-hw-12.4d663569.css.map */
