@@ -1,0 +1,26 @@
+.value{
+    display: block;
+    width: 100px;
+    height: 130px;
+    background-color: black;
+    font-size: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+.timer {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.label {
+    color: darkgray;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
